@@ -1,0 +1,4 @@
+interface:
+  display_name: "MakerWorld Design Studio v0.1"
+  short_description: "Original creative 3D prints, verified from concept to release"
+  default_prompt: "Use $makerworld-design-studio to develop my creative 3D print through Bambu Studio verification and a MakerWorld release candidate."

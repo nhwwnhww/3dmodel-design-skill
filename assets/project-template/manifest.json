@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "revision": "r0",
+  "profile": {
+    "printer": "Bambu Lab P1S",
+    "nozzle_mm": 0.4,
+    "material": "PETG — exact product unknown",
+    "plate": "unknown",
+    "layer_height_mm": null
+  },
+  "inputs": {},
+  "assembly_required": false,
+  "behavioral_claims": [],
+  "gates": {
+    "build": {
+      "status": "unknown",
+      "reviewer": "",
+      "revision": "r0",
+      "input_digest": "",
+      "details": {},
+      "artifacts": []
+    },
+    "visual": {
+      "status": "unknown",
+      "reviewer": "",
+      "revision": "r0",
+      "input_digest": "",
+      "details": {},
+      "artifacts": []
+    },
+    "dfam": {
+      "status": "unknown",
+      "reviewer": "",
+      "revision": "r0",
+      "input_digest": "",
+      "details": {},
+      "artifacts": []
+    },
+    "assembly": {
+      "status": "unknown",
+      "reviewer": "",
+      "revision": "r0",
+      "input_digest": "",
+      "details": {},
+      "artifacts": []
+    },
+    "slice": {
+      "status": "unknown",
+      "reviewer": "",
+      "revision": "r0",
+      "input_digest": "",
+      "details": {},
+      "artifacts": []
+    },
+    "prototype": {
+      "status": "unknown",
+      "reviewer": "",
+      "revision": "r0",
+      "input_digest": "",
+      "details": {},
+      "artifacts": []
+    },
+    "release": {
+      "status": "unknown",
+      "reviewer": "",
+      "revision": "r0",
+      "input_digest": "",
+      "details": {},
+      "artifacts": []
+    }
+  }
+}

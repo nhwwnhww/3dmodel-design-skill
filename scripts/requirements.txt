@@ -1,0 +1,3 @@
+# Implemented v0.1 helpers use Python standard library only.
+# Optional CAD/render/slicer backends are NOT installed or pinned by this file.
+# Read scripts/README.md before preparing a separate environment.
